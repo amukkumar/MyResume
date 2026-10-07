@@ -1,0 +1,49 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2026.9.11)  7 OCT 2026 18:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**resume.tex
+(./resume.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+
+! LaTeX Error: File `fontawesome5.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.12 \usepackage
+                {latexsym}^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 235 strings out of 478190
+ 2963 string characters out of 5854827
+ 292830 words of memory out of 5000000
+ 20932 multiletter control sequences out of 15000+600000
+ 469267 words of font info for 29 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 33i,0n,38p,123b,40s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
